@@ -11,4 +11,9 @@ display(sdf)
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC here is a comment
+
+# COMMAND ----------
+
 
